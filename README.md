@@ -1,3 +1,3 @@
-# brothers-gym
+Software de Gestion de gimnasio. BROTHERS GYM. Mora Cue - Luque.
 
-Software de gestion de asocioados. Brothers Gym. Mora Cue - Luque.
+Create by gcompy 2022
