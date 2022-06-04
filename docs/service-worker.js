@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brothers-gym/precache-manifest.fda13cc8dc64c49e716b4aa1ad7b542c.js"
+  "/brothers-gym/precache-manifest.bc90dcc6b9a8cd7d8f37999eaf14d1f0.js"
 );
 
 self.addEventListener('message', (event) => {

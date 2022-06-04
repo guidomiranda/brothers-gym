@@ -6,14 +6,7 @@ export default function HomePage() {
     return (
         <div className="text-center">
             <h5 className="main-title home-page-title">Bienvenidos a Brothers Gym System</h5>
-            <div>
-                <img
-                    src={Image}
-                    alt="Brothers Gym"
-                    height="300px"
-                    width="300px"
-                />
-            </div>
+
 
 
 
