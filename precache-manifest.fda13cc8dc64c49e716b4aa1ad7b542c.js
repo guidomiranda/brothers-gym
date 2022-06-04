@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bcca60208674adfd0f65f32847e6e80b",
+    "revision": "292c7499ff3836b0b7ca2f5e1ee9abad",
     "url": "/brothers-gym/index.html"
   },
   {
-    "revision": "ac8307f1df68f9438b7b",
+    "revision": "4cadb2ce03143a81ec7d",
     "url": "/brothers-gym/static/css/main.ec80207a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brothers-gym/static/js/2.15a841a7.chunk.js"
   },
   {
-    "revision": "ac8307f1df68f9438b7b",
-    "url": "/brothers-gym/static/js/main.f20f4a61.chunk.js"
+    "revision": "4cadb2ce03143a81ec7d",
+    "url": "/brothers-gym/static/js/main.74c903b9.chunk.js"
   },
   {
     "revision": "d4d8625d68b41cb499e6",
